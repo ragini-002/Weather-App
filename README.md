@@ -2,7 +2,7 @@
 
 A beautiful, responsive, and easy-to-use weather application that provides real-time weather information for any city around the world. Built with a sleek glassmorphism UI to provide an excellent user experience.
 
-🚀 **Live Demo:** [https://weather-app-mu-rose-65.vercel.app/](https://weather-app-mu-rose-65.vercel.app/)
+ **Live Demo:** [https://weather-app-mu-rose-65.vercel.app/](https://weather-app-mu-rose-65.vercel.app/)
 
 ## ✨ Features
 - **Real-Time Data:** Fetch up-to-date weather conditions, temperature, humidity, and wind speed for any location globally.
@@ -26,7 +26,7 @@ A beautiful, responsive, and easy-to-use weather application that provides real-
 - **CSS3:** For styling, Flexbox layout, animations, and the glassmorphism effect.
 - **JavaScript (ES6):** For handling user interactions, fetching data from the Weather API, and dynamically updating the DOM.
 
-## 🚀 Setup & Local Installation
+## Setup & Local Installation
 If you want to run this project locally, simply follow these steps:
 
 1. Clone the repository:
@@ -38,3 +38,5 @@ If you want to run this project locally, simply follow these steps:
    cd Weather-App
    ```
 3. Open `index.html` in your favorite web browser. No local server is required!
+
+Made with ❤️ for HackClub by Ragini Kumari
