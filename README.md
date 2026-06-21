@@ -1,42 +1,50 @@
-# 🌤️ Weather App
+# Weather App
 
-A beautiful, responsive, and easy-to-use weather application that provides real-time weather information for any city around the world. Built with a sleek glassmorphism UI to provide an excellent user experience.
+A simple weather application that shows current weather information for any city.
 
- **Live Demo:** [https://weather-app-mu-rose-65.vercel.app/](https://weather-app-mu-rose-65.vercel.app/)
+## Live Demo
 
-## ✨ Features
-- **Real-Time Data:** Fetch up-to-date weather conditions, temperature, humidity, and wind speed for any location globally.
-- **Sleek UI/UX:** A modern, clean interface featuring a gorgeous glassmorphism card design and dynamic aesthetic gradients.
-- **Fast & Lightweight:** Built using vanilla web technologies, ensuring rapid load times and smooth performance.
-- **Responsive Design:** Completely optimized for both desktop and mobile devices.
+https://weather-app-mu-rose-65.vercel.app/
 
-## 📸 Screenshots
+## Features
 
-### Search View
-![Search View](screenshot1.png)
+- Search weather by city name
+- Display current temperature
+- Show humidity
+- Show wind speed
+- Responsive design
 
-### Weather Data View
-![Weather Data View](screenshot2.png)
+## Technologies Used
 
-### Another City View
-![Another City View](screenshot3.png)
+- HTML
+- CSS
+- JavaScript
+- OpenWeather API
 
-## 🛠️ Technologies Used
-- **HTML5:** For the structural foundation.
-- **CSS3:** For styling, Flexbox layout, animations, and the glassmorphism effect.
-- **JavaScript (ES6):** For handling user interactions, fetching data from the Weather API, and dynamically updating the DOM.
+## Screenshots
 
-## Setup & Local Installation
-If you want to run this project locally, simply follow these steps:
+### Home Page
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ragini-002/Weather-App.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Weather-App
-   ```
-3. Open `index.html` in your favorite web browser. No local server is required!
+![Home Page](screenshot1.png)
 
-Made with ❤️ for HackClub by Ragini Kumari
+### Weather Result
+
+![Weather Result](screenshot2.png)
+
+### Another City
+
+![Another City](screenshot3.png)
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ragini-002/Weather-App.git
+```
+
+Open `index.html` in your browser.
+
+## Author
+
+Ragini Kumari
